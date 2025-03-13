@@ -1,0 +1,52 @@
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\bin\Debug\System Monitor.exe.config
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\bin\Debug\System Monitor.exe
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\bin\Debug\System Monitor.pdb
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.AssemblyReference.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.CPUInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.Form1.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.InternetSpeedTest.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.memoryInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.networkInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.Properties.Resources.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.GenerateResource.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System Monitor.exe
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System Monitor.pdb
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\bin\Debug\System Monitor.exe.config
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\bin\Debug\System Monitor.exe
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\bin\Debug\System Monitor.pdb
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.AssemblyReference.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System_Monitor.connectivitychk.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System_Monitor.CPUInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System_Monitor.Form1.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System_Monitor.InternetSpeedTest.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System_Monitor.memoryInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System_Monitor.networkInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System_Monitor.Properties.Resources.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.GenerateResource.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System Monitor.exe
+C:\Users\ahabi\OneDrive\Desktop\Project\tmprogress\System Monitor\System Monitor\obj\Debug\System Monitor.pdb
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\bin\Debug\System Monitor.exe.config
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\bin\Debug\System Monitor.exe
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\bin\Debug\System Monitor.pdb
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.AssemblyReference.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.CPUInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.discinfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.Form1.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.InternetSpeedTest.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.memoryInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.networkInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.Properties.Resources.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.GenerateResource.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System Monitor.exe
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System Monitor.pdb
+C:\Users\ahabi\OneDrive\Desktop\Project\Temp Progress\System Monitor\System Monitor\obj\Debug\System_Monitor.SystemInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.SystemInfo.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System_Monitor.temperatures.resources
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\ahabi\OneDrive\Desktop\Project\System Monitor\System Monitor\obj\Debug\System Monitor.csproj.CopyComplete
